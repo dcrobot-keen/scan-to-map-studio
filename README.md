@@ -1,3 +1,6 @@
+> **이 저장소는 2026-09-06 에 `dcrobot-keen/pathfinder`(Fleet Studio 모노레포)의 `scan-engine/` 으로 합쳐졌습니다.**
+> 이후 개발은 그쪽에서 합니다(`git subtree` 로 히스토리 보존). 이 저장소는 아카이브용으로만 남습니다.
+
 # scan-to-map-studio
 
 iPhone LiDAR 실내 스캔 → 천장 제거 베이스맵 자동 생성 → 로봇 occupancy grid와 2D 정합(registration)까지의 파이프라인. 설계 배경과 의사결정 근거는 [PLAN.md](PLAN.md) 참고.
